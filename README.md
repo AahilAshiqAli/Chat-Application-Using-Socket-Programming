@@ -2,6 +2,9 @@ Introducing a secure chat system built on Python's socket programming, this appl
 <br><br>
 You can easily run this. You only need to install Tkintor<br>
 Code runs using this command<br>
-python server.py<br>
-python client.py<br>
-RUn both files simultanously in different terminals so both can connect to one another<br>
+```bash
+python server.py
+python client.py
+```
+
+Run both files simultanously in different terminals so both can connect to one another<br>
